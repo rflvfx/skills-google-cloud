@@ -9,3 +9,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Refactor module — iteration 15 (2015)
 - Add validation — iteration 18 (2015)
 - Refactor module — iteration 26 (2015)
+- Fix lint warnings — iteration 28 (2015)
