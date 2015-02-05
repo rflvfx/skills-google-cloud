@@ -10,3 +10,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Add validation — iteration 18 (2015)
 - Refactor module — iteration 26 (2015)
 - Fix lint warnings — iteration 28 (2015)
+- Document usage — iteration 29 (2015)
