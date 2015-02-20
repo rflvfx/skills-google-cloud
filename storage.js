@@ -14,3 +14,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Fix edge case — iteration 40 (2015)
 - Refactor module — iteration 41 (2015)
 - Document usage — iteration 46 (2015)
+- Document usage — iteration 47 (2015)
