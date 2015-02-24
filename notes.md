@@ -6,3 +6,4 @@
 - billing alerts antes de tudo
 - Add helper — iteration 1 (2015)
 - Refactor module — iteration 7 (2015)
+- Extend coverage — iteration 11 (2015)
