@@ -7,3 +7,4 @@ exports.hello = async (req, res) => {
 - Fix lint warnings — iteration 8 (2015)
 - Tweak implementation — iteration 9 (2015)
 - Add example — iteration 16 (2015)
+- Polish code — iteration 19 (2015)
