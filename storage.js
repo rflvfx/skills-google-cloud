@@ -15,3 +15,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Refactor module — iteration 41 (2015)
 - Document usage — iteration 46 (2015)
 - Document usage — iteration 47 (2015)
+- Add feature — iteration 48 (2015)
