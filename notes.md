@@ -22,3 +22,4 @@
 - Polish code — iteration 49 (2015)
 - Add tests — iteration 51 (2015)
 - Update config — iteration 52 (2015)
+- Add validation — iteration 53 (2015)
