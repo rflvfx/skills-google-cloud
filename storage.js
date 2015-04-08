@@ -19,3 +19,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Fix lint warnings — iteration 50 (2015)
 - Fix typo — iteration 55 (2015)
 - Add validation — iteration 59 (2015)
+- Add helper — iteration 60 (2015)
