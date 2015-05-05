@@ -16,3 +16,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Document usage — iteration 46 (2015)
 - Document usage — iteration 47 (2015)
 - Add feature — iteration 48 (2015)
+- Fix lint warnings — iteration 50 (2015)
