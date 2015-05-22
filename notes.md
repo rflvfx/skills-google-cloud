@@ -4,3 +4,4 @@
 - Cloud Functions/Run: serverless
 - IAM granular por recurso
 - billing alerts antes de tudo
+- Add helper — iteration 1 (2015)
