@@ -6,3 +6,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Document usage — iteration 6 (2015)
 - Update config — iteration 10 (2015)
 - Improve error handling — iteration 13 (2015)
+- Refactor module — iteration 15 (2015)
