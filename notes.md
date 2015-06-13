@@ -16,3 +16,4 @@
 - Add feature — iteration 30 (2015)
 - Improve naming — iteration 33 (2015)
 - Add validation — iteration 35 (2015)
+- Polish code — iteration 37 (2015)
