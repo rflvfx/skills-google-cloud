@@ -8,3 +8,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Improve error handling — iteration 13 (2015)
 - Refactor module — iteration 15 (2015)
 - Add validation — iteration 18 (2015)
+- Refactor module — iteration 26 (2015)
