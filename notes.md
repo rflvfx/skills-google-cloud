@@ -20,3 +20,4 @@
 - Polish code — iteration 43 (2015)
 - Add example — iteration 45 (2015)
 - Polish code — iteration 49 (2015)
+- Add tests — iteration 51 (2015)
