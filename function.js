@@ -6,3 +6,4 @@ exports.hello = async (req, res) => {
 - Fix edge case — iteration 5 (2015)
 - Fix lint warnings — iteration 8 (2015)
 - Tweak implementation — iteration 9 (2015)
+- Add example — iteration 16 (2015)
