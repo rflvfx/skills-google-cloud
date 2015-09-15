@@ -12,3 +12,4 @@
 - Refactor module — iteration 17 (2015)
 - Add helper — iteration 22 (2015)
 - Fix lint warnings — iteration 23 (2015)
+- Add validation — iteration 25 (2015)
