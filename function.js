@@ -21,3 +21,4 @@ exports.hello = async (req, res) => {
 - Document usage — iteration 42 (2015)
 - Fix typo — iteration 44 (2015)
 - Fix typo — iteration 54 (2015)
+- Refactor module — iteration 57 (2015)
