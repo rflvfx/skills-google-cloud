@@ -8,3 +8,4 @@
 - Refactor module — iteration 7 (2015)
 - Extend coverage — iteration 11 (2015)
 - Add helper — iteration 12 (2015)
+- Extend coverage — iteration 14 (2015)
