@@ -10,3 +10,4 @@
 - Add helper — iteration 12 (2015)
 - Extend coverage — iteration 14 (2015)
 - Refactor module — iteration 17 (2015)
+- Add helper — iteration 22 (2015)
