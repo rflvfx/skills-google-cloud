@@ -3,3 +3,4 @@ const storage = new Storage();
 
 await storage.bucket("my-bucket").upload("./file.txt");
 - Minor cleanup — iteration 3 (2015)
+- Document usage — iteration 6 (2015)
