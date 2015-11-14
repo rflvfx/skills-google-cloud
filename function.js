@@ -15,3 +15,4 @@ exports.hello = async (req, res) => {
 - Polish code — iteration 31 (2015)
 - Extend coverage — iteration 32 (2015)
 - Tweak implementation — iteration 34 (2015)
+- Add example — iteration 36 (2015)
