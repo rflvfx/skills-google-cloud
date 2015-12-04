@@ -23,3 +23,4 @@
 - Add tests — iteration 51 (2015)
 - Update config — iteration 52 (2015)
 - Add validation — iteration 53 (2015)
+- Minor cleanup — iteration 56 (2015)
