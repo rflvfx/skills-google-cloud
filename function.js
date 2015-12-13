@@ -13,3 +13,4 @@ exports.hello = async (req, res) => {
 - Add feature — iteration 24 (2015)
 - Optimize performance — iteration 27 (2015)
 - Polish code — iteration 31 (2015)
+- Extend coverage — iteration 32 (2015)
