@@ -31,3 +31,4 @@ exports.hello = async (req, res) => {
 - Refactor module — iteration 16 (2016)
 - Add validation — iteration 17 (2016)
 - Optimize performance — iteration 18 (2016)
+- Add tests — iteration 20 (2016)
