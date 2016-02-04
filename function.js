@@ -26,3 +26,4 @@ exports.hello = async (req, res) => {
 - Fix typo — iteration 4 (2016)
 - Document usage — iteration 7 (2016)
 - Tweak implementation — iteration 8 (2016)
+- Optimize performance — iteration 12 (2016)
