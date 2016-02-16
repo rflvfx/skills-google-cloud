@@ -30,3 +30,4 @@ exports.hello = async (req, res) => {
 - Improve error handling — iteration 15 (2016)
 - Refactor module — iteration 16 (2016)
 - Add validation — iteration 17 (2016)
+- Optimize performance — iteration 18 (2016)
