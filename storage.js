@@ -22,3 +22,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Add helper — iteration 60 (2015)
 - Extend coverage — iteration 5 (2016)
 - Extend coverage — iteration 10 (2016)
+- Improve naming — iteration 11 (2016)
