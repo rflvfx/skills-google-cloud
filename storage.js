@@ -26,3 +26,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Update config — iteration 28 (2016)
 - Fix typo — iteration 30 (2016)
 - Polish code — iteration 31 (2016)
+- Polish code — iteration 38 (2016)
