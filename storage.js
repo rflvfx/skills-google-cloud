@@ -33,3 +33,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Add validation — iteration 47 (2016)
 - Add tests — iteration 48 (2016)
 - Update dependencies — iteration 56 (2016)
+- Update dependencies — iteration 57 (2016)
