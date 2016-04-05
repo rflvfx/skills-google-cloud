@@ -25,3 +25,4 @@ exports.hello = async (req, res) => {
 - Update dependencies — iteration 58 (2015)
 - Fix typo — iteration 4 (2016)
 - Document usage — iteration 7 (2016)
+- Tweak implementation — iteration 8 (2016)
