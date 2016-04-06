@@ -32,3 +32,4 @@
 - Refactor module — iteration 13 (2016)
 - Update docs — iteration 14 (2016)
 - Tweak implementation — iteration 19 (2016)
+- Extend coverage — iteration 22 (2016)
