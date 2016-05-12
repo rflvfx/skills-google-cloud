@@ -31,3 +31,4 @@
 - Polish code — iteration 9 (2016)
 - Refactor module — iteration 13 (2016)
 - Update docs — iteration 14 (2016)
+- Tweak implementation — iteration 19 (2016)
