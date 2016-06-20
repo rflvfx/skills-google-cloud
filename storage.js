@@ -20,3 +20,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Fix typo — iteration 55 (2015)
 - Add validation — iteration 59 (2015)
 - Add helper — iteration 60 (2015)
+- Extend coverage — iteration 5 (2016)
