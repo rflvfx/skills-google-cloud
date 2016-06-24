@@ -26,3 +26,4 @@
 - Minor cleanup — iteration 56 (2015)
 - Optimize performance — iteration 1 (2016)
 - Minor cleanup — iteration 2 (2016)
+- Refactor module — iteration 3 (2016)
