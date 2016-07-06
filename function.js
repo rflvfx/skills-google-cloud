@@ -43,3 +43,4 @@ exports.hello = async (req, res) => {
 - Fix lint warnings — iteration 41 (2016)
 - Optimize performance — iteration 44 (2016)
 - Add feature — iteration 45 (2016)
+- Minor cleanup — iteration 51 (2016)
