@@ -33,3 +33,4 @@
 - Update docs — iteration 14 (2016)
 - Tweak implementation — iteration 19 (2016)
 - Extend coverage — iteration 22 (2016)
+- Update config — iteration 23 (2016)
