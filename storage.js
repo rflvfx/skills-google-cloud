@@ -21,3 +21,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Add validation — iteration 59 (2015)
 - Add helper — iteration 60 (2015)
 - Extend coverage — iteration 5 (2016)
+- Extend coverage — iteration 10 (2016)
