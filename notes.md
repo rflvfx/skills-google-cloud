@@ -28,3 +28,4 @@
 - Minor cleanup — iteration 2 (2016)
 - Refactor module — iteration 3 (2016)
 - Refactor module — iteration 6 (2016)
+- Polish code — iteration 9 (2016)
