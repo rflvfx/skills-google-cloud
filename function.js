@@ -44,3 +44,4 @@ exports.hello = async (req, res) => {
 - Optimize performance — iteration 44 (2016)
 - Add feature — iteration 45 (2016)
 - Minor cleanup — iteration 51 (2016)
+- Fix edge case — iteration 52 (2016)
