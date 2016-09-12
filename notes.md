@@ -38,3 +38,4 @@
 - Update docs — iteration 26 (2016)
 - Add example — iteration 27 (2016)
 - Refactor module — iteration 35 (2016)
+- Tweak implementation — iteration 42 (2016)
