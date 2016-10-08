@@ -23,3 +23,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Extend coverage — iteration 5 (2016)
 - Extend coverage — iteration 10 (2016)
 - Improve naming — iteration 11 (2016)
+- Update config — iteration 28 (2016)
