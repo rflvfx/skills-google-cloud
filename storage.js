@@ -25,3 +25,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Improve naming — iteration 11 (2016)
 - Update config — iteration 28 (2016)
 - Fix typo — iteration 30 (2016)
+- Polish code — iteration 31 (2016)
