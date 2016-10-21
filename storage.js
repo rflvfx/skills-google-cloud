@@ -28,3 +28,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Polish code — iteration 31 (2016)
 - Polish code — iteration 38 (2016)
 - Update docs — iteration 39 (2016)
+- Add feature — iteration 40 (2016)
