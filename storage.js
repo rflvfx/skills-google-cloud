@@ -31,3 +31,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Add feature — iteration 40 (2016)
 - Tweak implementation — iteration 46 (2016)
 - Add validation — iteration 47 (2016)
+- Add tests — iteration 48 (2016)
