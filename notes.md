@@ -41,3 +41,4 @@
 - Tweak implementation — iteration 42 (2016)
 - Extend coverage — iteration 43 (2016)
 - Add example — iteration 49 (2016)
+- Polish code — iteration 50 (2016)
