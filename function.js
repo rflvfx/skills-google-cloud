@@ -33,3 +33,4 @@ exports.hello = async (req, res) => {
 - Optimize performance — iteration 18 (2016)
 - Add tests — iteration 20 (2016)
 - Add validation — iteration 21 (2016)
+- Add helper — iteration 24 (2016)
