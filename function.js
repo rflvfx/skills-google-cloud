@@ -28,3 +28,4 @@ exports.hello = async (req, res) => {
 - Tweak implementation — iteration 8 (2016)
 - Optimize performance — iteration 12 (2016)
 - Improve error handling — iteration 15 (2016)
+- Refactor module — iteration 16 (2016)
