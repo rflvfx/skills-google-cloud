@@ -55,3 +55,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Update docs — iteration 50 (2017)
 - Fix typo — iteration 55 (2017)
 - Fix edge case — iteration 57 (2017)
+- Extend coverage — iteration 60 (2017)
