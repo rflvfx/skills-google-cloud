@@ -46,3 +46,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Polish code — iteration 31 (2017)
 - Refactor module — iteration 33 (2017)
 - Update dependencies — iteration 36 (2017)
+- Document usage — iteration 41 (2017)
