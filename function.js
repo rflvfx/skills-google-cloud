@@ -64,3 +64,4 @@ exports.hello = async (req, res) => {
 - Improve naming — iteration 49 (2017)
 - Update config — iteration 51 (2017)
 - Document usage — iteration 52 (2017)
+- Update dependencies — iteration 54 (2017)
