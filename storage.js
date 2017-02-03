@@ -47,3 +47,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Refactor module — iteration 33 (2017)
 - Update dependencies — iteration 36 (2017)
 - Document usage — iteration 41 (2017)
+- Fix typo — iteration 42 (2017)
