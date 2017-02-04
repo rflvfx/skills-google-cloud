@@ -56,3 +56,4 @@
 - Add validation — iteration 26 (2017)
 - Tweak implementation — iteration 27 (2017)
 - Optimize performance — iteration 28 (2017)
+- Update config — iteration 30 (2017)
