@@ -51,3 +51,4 @@
 - Add example — iteration 11 (2017)
 - Refactor module — iteration 13 (2017)
 - Minor cleanup — iteration 18 (2017)
+- Update dependencies — iteration 20 (2017)
