@@ -44,3 +44,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Fix edge case — iteration 24 (2017)
 - Add example — iteration 25 (2017)
 - Polish code — iteration 31 (2017)
+- Refactor module — iteration 33 (2017)
