@@ -37,3 +37,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Add helper — iteration 2 (2017)
 - Optimize performance — iteration 8 (2017)
 - Update config — iteration 12 (2017)
+- Update docs — iteration 14 (2017)
