@@ -61,3 +61,4 @@
 - Add helper — iteration 38 (2017)
 - Polish code — iteration 39 (2017)
 - Update config — iteration 43 (2017)
+- Improve error handling — iteration 47 (2017)
