@@ -57,3 +57,4 @@ exports.hello = async (req, res) => {
 - Improve error handling — iteration 16 (2017)
 - Add validation — iteration 19 (2017)
 - Fix lint warnings — iteration 29 (2017)
+- Add example — iteration 32 (2017)
