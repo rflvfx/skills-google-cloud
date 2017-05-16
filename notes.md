@@ -46,3 +46,4 @@
 - Document usage — iteration 59 (2016)
 - Add validation — iteration 3 (2017)
 - Add validation — iteration 4 (2017)
+- Improve error handling — iteration 5 (2017)
