@@ -48,3 +48,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Update dependencies — iteration 36 (2017)
 - Document usage — iteration 41 (2017)
 - Fix typo — iteration 42 (2017)
+- Optimize performance — iteration 44 (2017)
