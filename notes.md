@@ -62,3 +62,4 @@
 - Polish code — iteration 39 (2017)
 - Update config — iteration 43 (2017)
 - Improve error handling — iteration 47 (2017)
+- Minor cleanup — iteration 53 (2017)
