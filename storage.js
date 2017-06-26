@@ -38,3 +38,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Optimize performance — iteration 8 (2017)
 - Update config — iteration 12 (2017)
 - Update docs — iteration 14 (2017)
+- Refactor module — iteration 17 (2017)
