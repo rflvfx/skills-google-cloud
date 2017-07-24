@@ -45,3 +45,4 @@
 - Add example — iteration 53 (2016)
 - Document usage — iteration 59 (2016)
 - Add validation — iteration 3 (2017)
+- Add validation — iteration 4 (2017)
