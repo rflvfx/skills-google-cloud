@@ -50,3 +50,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Fix typo — iteration 42 (2017)
 - Optimize performance — iteration 44 (2017)
 - Refactor module — iteration 45 (2017)
+- Fix typo — iteration 46 (2017)
