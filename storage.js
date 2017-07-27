@@ -42,3 +42,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Add helper — iteration 21 (2017)
 - Add feature — iteration 22 (2017)
 - Fix edge case — iteration 24 (2017)
+- Add example — iteration 25 (2017)
