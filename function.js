@@ -50,3 +50,4 @@ exports.hello = async (req, res) => {
 - Tweak implementation — iteration 58 (2016)
 - Document usage — iteration 60 (2016)
 - Add helper — iteration 1 (2017)
+- Add tests — iteration 7 (2017)
