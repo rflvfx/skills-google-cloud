@@ -60,3 +60,4 @@
 - Fix lint warnings — iteration 37 (2017)
 - Add helper — iteration 38 (2017)
 - Polish code — iteration 39 (2017)
+- Update config — iteration 43 (2017)
