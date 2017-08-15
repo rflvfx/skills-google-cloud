@@ -49,3 +49,4 @@
 - Improve error handling — iteration 5 (2017)
 - Update dependencies — iteration 6 (2017)
 - Add example — iteration 11 (2017)
+- Refactor module — iteration 13 (2017)
