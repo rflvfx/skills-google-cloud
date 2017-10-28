@@ -53,3 +53,4 @@
 - Minor cleanup — iteration 18 (2017)
 - Update dependencies — iteration 20 (2017)
 - Update docs — iteration 23 (2017)
+- Add validation — iteration 26 (2017)
