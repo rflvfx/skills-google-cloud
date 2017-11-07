@@ -51,3 +51,4 @@ exports.hello = async (req, res) => {
 - Document usage — iteration 60 (2016)
 - Add helper — iteration 1 (2017)
 - Add tests — iteration 7 (2017)
+- Update docs — iteration 9 (2017)
