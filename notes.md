@@ -44,3 +44,4 @@
 - Polish code — iteration 50 (2016)
 - Add example — iteration 53 (2016)
 - Document usage — iteration 59 (2016)
+- Add validation — iteration 3 (2017)
