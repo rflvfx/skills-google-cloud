@@ -72,3 +72,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Minor cleanup — iteration 34 (2018)
 - Extend coverage — iteration 35 (2018)
 - Tweak implementation — iteration 37 (2018)
+- Fix lint warnings — iteration 38 (2018)
