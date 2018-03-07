@@ -69,3 +69,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Update config — iteration 23 (2018)
 - Update config — iteration 28 (2018)
 - Document usage — iteration 32 (2018)
+- Minor cleanup — iteration 34 (2018)
