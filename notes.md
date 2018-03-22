@@ -79,3 +79,4 @@
 - Add tests — iteration 40 (2018)
 - Add tests — iteration 44 (2018)
 - Add example — iteration 46 (2018)
+- Improve error handling — iteration 51 (2018)
