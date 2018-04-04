@@ -66,3 +66,4 @@
 - Fix edge case — iteration 58 (2017)
 - Add tests — iteration 59 (2017)
 - Minor cleanup — iteration 1 (2018)
+- Extend coverage — iteration 2 (2018)
