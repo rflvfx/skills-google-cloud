@@ -57,3 +57,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Fix edge case — iteration 57 (2017)
 - Extend coverage — iteration 60 (2017)
 - Improve error handling — iteration 4 (2018)
+- Polish code — iteration 5 (2018)
