@@ -74,3 +74,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Tweak implementation — iteration 37 (2018)
 - Fix lint warnings — iteration 38 (2018)
 - Add helper — iteration 41 (2018)
+- Add validation — iteration 42 (2018)
