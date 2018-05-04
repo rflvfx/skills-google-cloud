@@ -72,3 +72,4 @@
 - Add validation — iteration 11 (2018)
 - Update config — iteration 12 (2018)
 - Fix typo — iteration 14 (2018)
+- Improve error handling — iteration 24 (2018)
