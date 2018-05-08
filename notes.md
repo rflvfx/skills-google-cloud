@@ -70,3 +70,4 @@
 - Improve naming — iteration 7 (2018)
 - Polish code — iteration 10 (2018)
 - Add validation — iteration 11 (2018)
+- Update config — iteration 12 (2018)
