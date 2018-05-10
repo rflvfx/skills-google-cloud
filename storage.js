@@ -62,3 +62,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Extend coverage — iteration 13 (2018)
 - Add feature — iteration 15 (2018)
 - Fix typo — iteration 17 (2018)
+- Improve error handling — iteration 18 (2018)
