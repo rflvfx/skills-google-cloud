@@ -67,3 +67,4 @@
 - Add tests — iteration 59 (2017)
 - Minor cleanup — iteration 1 (2018)
 - Extend coverage — iteration 2 (2018)
+- Improve naming — iteration 7 (2018)
