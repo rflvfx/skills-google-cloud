@@ -71,3 +71,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Document usage — iteration 32 (2018)
 - Minor cleanup — iteration 34 (2018)
 - Extend coverage — iteration 35 (2018)
+- Tweak implementation — iteration 37 (2018)
