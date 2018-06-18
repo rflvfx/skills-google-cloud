@@ -72,3 +72,4 @@ exports.hello = async (req, res) => {
 - Improve error handling — iteration 16 (2018)
 - Add helper — iteration 19 (2018)
 - Tweak implementation — iteration 25 (2018)
+- Add example — iteration 27 (2018)
