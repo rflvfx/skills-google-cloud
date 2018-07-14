@@ -82,3 +82,4 @@ exports.hello = async (req, res) => {
 - Refactor module — iteration 54 (2018)
 - Improve naming — iteration 57 (2018)
 - Document usage — iteration 58 (2018)
+- Improve error handling — iteration 59 (2018)
