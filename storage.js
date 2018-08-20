@@ -60,3 +60,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Polish code — iteration 5 (2018)
 - Document usage — iteration 9 (2018)
 - Extend coverage — iteration 13 (2018)
+- Add feature — iteration 15 (2018)
