@@ -69,3 +69,4 @@ exports.hello = async (req, res) => {
 - Add validation — iteration 3 (2018)
 - Optimize performance — iteration 6 (2018)
 - Add tests — iteration 8 (2018)
+- Improve error handling — iteration 16 (2018)
