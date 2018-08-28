@@ -80,3 +80,4 @@ exports.hello = async (req, res) => {
 - Update docs — iteration 47 (2018)
 - Tweak implementation — iteration 49 (2018)
 - Refactor module — iteration 54 (2018)
+- Improve naming — iteration 57 (2018)
