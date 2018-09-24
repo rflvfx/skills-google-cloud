@@ -75,3 +75,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Fix lint warnings — iteration 38 (2018)
 - Add helper — iteration 41 (2018)
 - Add validation — iteration 42 (2018)
+- Fix edge case — iteration 43 (2018)
