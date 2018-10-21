@@ -61,3 +61,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Document usage — iteration 9 (2018)
 - Extend coverage — iteration 13 (2018)
 - Add feature — iteration 15 (2018)
+- Fix typo — iteration 17 (2018)
