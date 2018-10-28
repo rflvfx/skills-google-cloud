@@ -81,3 +81,4 @@
 - Add example — iteration 46 (2018)
 - Improve error handling — iteration 51 (2018)
 - Add tests — iteration 53 (2018)
+- Tweak implementation — iteration 55 (2018)
