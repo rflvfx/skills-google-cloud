@@ -58,3 +58,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Extend coverage — iteration 60 (2017)
 - Improve error handling — iteration 4 (2018)
 - Polish code — iteration 5 (2018)
+- Document usage — iteration 9 (2018)
