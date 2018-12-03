@@ -68,3 +68,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Improve naming — iteration 22 (2018)
 - Update config — iteration 23 (2018)
 - Update config — iteration 28 (2018)
+- Document usage — iteration 32 (2018)
