@@ -69,3 +69,4 @@
 - Extend coverage — iteration 2 (2018)
 - Improve naming — iteration 7 (2018)
 - Polish code — iteration 10 (2018)
+- Add validation — iteration 11 (2018)
