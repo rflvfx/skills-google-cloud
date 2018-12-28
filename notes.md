@@ -65,3 +65,4 @@
 - Minor cleanup — iteration 53 (2017)
 - Fix edge case — iteration 58 (2017)
 - Add tests — iteration 59 (2017)
+- Minor cleanup — iteration 1 (2018)
