@@ -84,3 +84,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Add helper — iteration 10 (2019)
 - Update docs — iteration 11 (2019)
 - Add validation — iteration 12 (2019)
+- Refactor module — iteration 14 (2019)
