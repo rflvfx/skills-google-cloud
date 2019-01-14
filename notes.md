@@ -91,3 +91,4 @@
 - Add feature — iteration 18 (2019)
 - Update dependencies — iteration 24 (2019)
 - Polish code — iteration 25 (2019)
+- Update config — iteration 30 (2019)
