@@ -88,3 +88,4 @@
 - Add example — iteration 5 (2019)
 - Improve naming — iteration 6 (2019)
 - Update config — iteration 16 (2019)
+- Add feature — iteration 18 (2019)
