@@ -101,3 +101,4 @@
 - Minor cleanup — iteration 55 (2019)
 - Tweak implementation — iteration 56 (2019)
 - Add helper — iteration 57 (2019)
+- Improve error handling — iteration 60 (2019)
