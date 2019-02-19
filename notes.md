@@ -92,3 +92,4 @@
 - Update dependencies — iteration 24 (2019)
 - Polish code — iteration 25 (2019)
 - Update config — iteration 30 (2019)
+- Add validation — iteration 31 (2019)
