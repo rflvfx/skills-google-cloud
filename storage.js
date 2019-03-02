@@ -88,3 +88,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Optimize performance — iteration 15 (2019)
 - Fix lint warnings — iteration 17 (2019)
 - Fix typo — iteration 20 (2019)
+- Polish code — iteration 21 (2019)
