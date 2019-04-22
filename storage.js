@@ -83,3 +83,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Document usage — iteration 3 (2019)
 - Add helper — iteration 10 (2019)
 - Update docs — iteration 11 (2019)
+- Add validation — iteration 12 (2019)
