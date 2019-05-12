@@ -80,3 +80,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Fix typo — iteration 48 (2018)
 - Add tests — iteration 50 (2018)
 - Add feature — iteration 52 (2018)
+- Document usage — iteration 3 (2019)
