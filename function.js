@@ -90,3 +90,4 @@ exports.hello = async (req, res) => {
 - Extend coverage — iteration 9 (2019)
 - Update dependencies — iteration 13 (2019)
 - Improve error handling — iteration 19 (2019)
+- Add feature — iteration 23 (2019)
