@@ -99,3 +99,4 @@ exports.hello = async (req, res) => {
 - Add example — iteration 41 (2019)
 - Update dependencies — iteration 43 (2019)
 - Polish code — iteration 48 (2019)
+- Fix edge case — iteration 49 (2019)
