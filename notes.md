@@ -84,3 +84,4 @@
 - Tweak implementation — iteration 55 (2018)
 - Update docs — iteration 56 (2018)
 - Document usage — iteration 60 (2018)
+- Tweak implementation — iteration 4 (2019)
