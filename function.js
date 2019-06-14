@@ -84,3 +84,4 @@ exports.hello = async (req, res) => {
 - Document usage — iteration 58 (2018)
 - Improve error handling — iteration 59 (2018)
 - Minor cleanup — iteration 1 (2019)
+- Minor cleanup — iteration 2 (2019)
