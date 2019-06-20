@@ -93,3 +93,4 @@
 - Polish code — iteration 25 (2019)
 - Update config — iteration 30 (2019)
 - Add validation — iteration 31 (2019)
+- Minor cleanup — iteration 44 (2019)
