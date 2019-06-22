@@ -94,3 +94,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Add feature — iteration 27 (2019)
 - Tweak implementation — iteration 28 (2019)
 - Improve error handling — iteration 33 (2019)
+- Fix typo — iteration 34 (2019)
