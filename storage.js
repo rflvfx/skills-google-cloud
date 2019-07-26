@@ -86,3 +86,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Add validation — iteration 12 (2019)
 - Refactor module — iteration 14 (2019)
 - Optimize performance — iteration 15 (2019)
+- Fix lint warnings — iteration 17 (2019)
