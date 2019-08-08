@@ -82,3 +82,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Add feature — iteration 52 (2018)
 - Document usage — iteration 3 (2019)
 - Add helper — iteration 10 (2019)
+- Update docs — iteration 11 (2019)
