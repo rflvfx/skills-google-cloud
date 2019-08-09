@@ -101,3 +101,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Add example — iteration 42 (2019)
 - Update dependencies — iteration 46 (2019)
 - Update dependencies — iteration 50 (2019)
+- Add feature — iteration 51 (2019)
