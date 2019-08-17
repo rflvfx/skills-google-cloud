@@ -92,3 +92,4 @@ exports.hello = async (req, res) => {
 - Improve error handling — iteration 19 (2019)
 - Add feature — iteration 23 (2019)
 - Fix edge case — iteration 29 (2019)
+- Update docs — iteration 32 (2019)
