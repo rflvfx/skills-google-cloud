@@ -92,3 +92,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Add tests — iteration 22 (2019)
 - Add tests — iteration 26 (2019)
 - Add feature — iteration 27 (2019)
+- Tweak implementation — iteration 28 (2019)
