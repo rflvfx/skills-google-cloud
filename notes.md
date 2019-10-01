@@ -86,3 +86,4 @@
 - Document usage — iteration 60 (2018)
 - Tweak implementation — iteration 4 (2019)
 - Add example — iteration 5 (2019)
+- Improve naming — iteration 6 (2019)
