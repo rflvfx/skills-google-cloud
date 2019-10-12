@@ -85,3 +85,4 @@ exports.hello = async (req, res) => {
 - Improve error handling — iteration 59 (2018)
 - Minor cleanup — iteration 1 (2019)
 - Minor cleanup — iteration 2 (2019)
+- Fix edge case — iteration 7 (2019)
