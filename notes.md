@@ -97,3 +97,4 @@
 - Optimize performance — iteration 45 (2019)
 - Improve error handling — iteration 47 (2019)
 - Tweak implementation — iteration 53 (2019)
+- Update docs — iteration 54 (2019)
