@@ -89,3 +89,4 @@ exports.hello = async (req, res) => {
 - Polish code — iteration 8 (2019)
 - Extend coverage — iteration 9 (2019)
 - Update dependencies — iteration 13 (2019)
+- Improve error handling — iteration 19 (2019)
