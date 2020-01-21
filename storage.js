@@ -105,3 +105,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Update docs — iteration 52 (2019)
 - Fix edge case — iteration 59 (2019)
 - Add example — iteration 7 (2020)
+- Add validation — iteration 11 (2020)
