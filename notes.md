@@ -120,3 +120,4 @@
 - Update dependencies — iteration 50 (2020)
 - Update docs — iteration 54 (2020)
 - Add example — iteration 55 (2020)
+- Tweak implementation — iteration 58 (2020)
