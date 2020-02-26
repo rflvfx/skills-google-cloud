@@ -109,3 +109,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Update docs — iteration 12 (2020)
 - Optimize performance — iteration 16 (2020)
 - Polish code — iteration 19 (2020)
+- Improve error handling — iteration 21 (2020)
