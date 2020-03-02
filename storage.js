@@ -114,3 +114,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Optimize performance — iteration 25 (2020)
 - Add feature — iteration 26 (2020)
 - Optimize performance — iteration 30 (2020)
+- Extend coverage — iteration 37 (2020)
