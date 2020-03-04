@@ -118,3 +118,4 @@
 - Improve naming — iteration 44 (2020)
 - Update docs — iteration 47 (2020)
 - Update dependencies — iteration 50 (2020)
+- Update docs — iteration 54 (2020)
