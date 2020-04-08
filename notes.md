@@ -115,3 +115,4 @@
 - Add validation — iteration 38 (2020)
 - Fix typo — iteration 39 (2020)
 - Add helper — iteration 43 (2020)
+- Improve naming — iteration 44 (2020)
