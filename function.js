@@ -119,3 +119,4 @@ exports.hello = async (req, res) => {
 - Fix typo — iteration 35 (2020)
 - Document usage — iteration 40 (2020)
 - Add feature — iteration 41 (2020)
+- Add feature — iteration 42 (2020)
