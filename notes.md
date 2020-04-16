@@ -104,3 +104,4 @@
 - Improve error handling — iteration 60 (2019)
 - Improve naming — iteration 1 (2020)
 - Improve error handling — iteration 2 (2020)
+- Optimize performance — iteration 8 (2020)
