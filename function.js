@@ -102,3 +102,4 @@ exports.hello = async (req, res) => {
 - Fix edge case — iteration 49 (2019)
 - Extend coverage — iteration 58 (2019)
 - Optimize performance — iteration 3 (2020)
+- Add tests — iteration 4 (2020)
