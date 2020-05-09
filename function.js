@@ -110,3 +110,4 @@ exports.hello = async (req, res) => {
 - Tweak implementation — iteration 15 (2020)
 - Add tests — iteration 17 (2020)
 - Update docs — iteration 18 (2020)
+- Add feature — iteration 20 (2020)
