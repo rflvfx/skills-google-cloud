@@ -108,3 +108,4 @@ exports.hello = async (req, res) => {
 - Update config — iteration 10 (2020)
 - Add helper — iteration 13 (2020)
 - Tweak implementation — iteration 15 (2020)
+- Add tests — iteration 17 (2020)
