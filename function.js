@@ -115,3 +115,4 @@ exports.hello = async (req, res) => {
 - Add feature — iteration 24 (2020)
 - Refactor module — iteration 28 (2020)
 - Minor cleanup — iteration 31 (2020)
+- Update docs — iteration 33 (2020)
