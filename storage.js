@@ -112,3 +112,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Improve error handling — iteration 21 (2020)
 - Tweak implementation — iteration 23 (2020)
 - Optimize performance — iteration 25 (2020)
+- Add feature — iteration 26 (2020)
