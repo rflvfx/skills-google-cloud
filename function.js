@@ -120,3 +120,4 @@ exports.hello = async (req, res) => {
 - Document usage — iteration 40 (2020)
 - Add feature — iteration 41 (2020)
 - Add feature — iteration 42 (2020)
+- Add example — iteration 45 (2020)
