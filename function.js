@@ -103,3 +103,4 @@ exports.hello = async (req, res) => {
 - Extend coverage — iteration 58 (2019)
 - Optimize performance — iteration 3 (2020)
 - Add tests — iteration 4 (2020)
+- Add helper — iteration 5 (2020)
