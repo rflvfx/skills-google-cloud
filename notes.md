@@ -106,3 +106,4 @@
 - Improve error handling — iteration 2 (2020)
 - Optimize performance — iteration 8 (2020)
 - Optimize performance — iteration 9 (2020)
+- Update dependencies — iteration 14 (2020)
