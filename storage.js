@@ -117,3 +117,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Extend coverage — iteration 37 (2020)
 - Add helper — iteration 46 (2020)
 - Refactor module — iteration 49 (2020)
+- Update config — iteration 51 (2020)
