@@ -101,3 +101,4 @@ exports.hello = async (req, res) => {
 - Polish code — iteration 48 (2019)
 - Fix edge case — iteration 49 (2019)
 - Extend coverage — iteration 58 (2019)
+- Optimize performance — iteration 3 (2020)
