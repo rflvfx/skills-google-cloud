@@ -102,3 +102,4 @@
 - Tweak implementation — iteration 56 (2019)
 - Add helper — iteration 57 (2019)
 - Improve error handling — iteration 60 (2019)
+- Improve naming — iteration 1 (2020)
