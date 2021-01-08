@@ -122,3 +122,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Improve error handling — iteration 1 (2021)
 - Add validation — iteration 3 (2021)
 - Add validation — iteration 7 (2021)
+- Improve naming — iteration 8 (2021)
