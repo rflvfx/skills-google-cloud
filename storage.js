@@ -131,3 +131,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Update docs — iteration 18 (2021)
 - Optimize performance — iteration 20 (2021)
 - Polish code — iteration 23 (2021)
+- Fix edge case — iteration 30 (2021)
