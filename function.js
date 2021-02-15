@@ -127,3 +127,4 @@ exports.hello = async (req, res) => {
 - Add validation — iteration 57 (2020)
 - Update config — iteration 59 (2020)
 - Tweak implementation — iteration 60 (2020)
+- Add tests — iteration 2 (2021)
