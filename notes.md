@@ -131,3 +131,4 @@
 - Update docs — iteration 37 (2021)
 - Polish code — iteration 38 (2021)
 - Improve naming — iteration 41 (2021)
+- Improve error handling — iteration 42 (2021)
