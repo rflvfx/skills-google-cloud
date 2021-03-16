@@ -123,3 +123,4 @@
 - Tweak implementation — iteration 58 (2020)
 - Fix lint warnings — iteration 6 (2021)
 - Tweak implementation — iteration 9 (2021)
+- Fix typo — iteration 13 (2021)
