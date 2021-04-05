@@ -138,3 +138,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Extend coverage — iteration 35 (2021)
 - Update config — iteration 39 (2021)
 - Improve error handling — iteration 40 (2021)
+- Improve error handling — iteration 43 (2021)
