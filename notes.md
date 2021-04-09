@@ -129,3 +129,4 @@
 - Optimize performance — iteration 28 (2021)
 - Improve naming — iteration 33 (2021)
 - Update docs — iteration 37 (2021)
+- Polish code — iteration 38 (2021)
