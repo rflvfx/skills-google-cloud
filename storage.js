@@ -135,3 +135,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Add tests — iteration 31 (2021)
 - Add validation — iteration 32 (2021)
 - Update docs — iteration 34 (2021)
+- Extend coverage — iteration 35 (2021)
