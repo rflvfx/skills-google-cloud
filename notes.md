@@ -126,3 +126,4 @@
 - Fix typo — iteration 13 (2021)
 - Add example — iteration 22 (2021)
 - Optimize performance — iteration 26 (2021)
+- Optimize performance — iteration 28 (2021)
