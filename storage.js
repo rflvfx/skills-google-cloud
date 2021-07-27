@@ -127,3 +127,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Add example — iteration 12 (2021)
 - Update config — iteration 14 (2021)
 - Polish code — iteration 16 (2021)
+- Fix typo — iteration 17 (2021)
