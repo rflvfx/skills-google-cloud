@@ -140,3 +140,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Improve error handling — iteration 40 (2021)
 - Improve error handling — iteration 43 (2021)
 - Refactor module — iteration 44 (2021)
+- Fix edge case — iteration 48 (2021)
