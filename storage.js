@@ -130,3 +130,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Fix typo — iteration 17 (2021)
 - Update docs — iteration 18 (2021)
 - Optimize performance — iteration 20 (2021)
+- Polish code — iteration 23 (2021)
