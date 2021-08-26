@@ -128,3 +128,4 @@
 - Optimize performance — iteration 26 (2021)
 - Optimize performance — iteration 28 (2021)
 - Improve naming — iteration 33 (2021)
+- Update docs — iteration 37 (2021)
