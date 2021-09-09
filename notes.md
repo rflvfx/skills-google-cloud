@@ -138,3 +138,4 @@
 - Update config — iteration 53 (2021)
 - Fix typo — iteration 54 (2021)
 - Add example — iteration 56 (2021)
+- Extend coverage — iteration 59 (2021)
