@@ -120,3 +120,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Update config — iteration 51 (2020)
 - Add tests — iteration 52 (2020)
 - Improve error handling — iteration 1 (2021)
+- Add validation — iteration 3 (2021)
