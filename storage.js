@@ -126,3 +126,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Document usage — iteration 11 (2021)
 - Add example — iteration 12 (2021)
 - Update config — iteration 14 (2021)
+- Polish code — iteration 16 (2021)
