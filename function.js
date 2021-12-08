@@ -133,3 +133,4 @@ exports.hello = async (req, res) => {
 - Optimize performance — iteration 10 (2021)
 - Document usage — iteration 15 (2021)
 - Tweak implementation — iteration 19 (2021)
+- Update dependencies — iteration 21 (2021)
