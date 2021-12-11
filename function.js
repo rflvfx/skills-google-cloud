@@ -130,3 +130,4 @@ exports.hello = async (req, res) => {
 - Add tests — iteration 2 (2021)
 - Add feature — iteration 4 (2021)
 - Add feature — iteration 5 (2021)
+- Optimize performance — iteration 10 (2021)
