@@ -134,3 +134,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Fix edge case — iteration 30 (2021)
 - Add tests — iteration 31 (2021)
 - Add validation — iteration 32 (2021)
+- Update docs — iteration 34 (2021)
