@@ -161,3 +161,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Add feature — iteration 49 (2022)
 - Polish code — iteration 50 (2022)
 - Add tests — iteration 53 (2022)
+- Update dependencies — iteration 54 (2022)
