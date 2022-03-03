@@ -140,3 +140,4 @@
 - Add example — iteration 56 (2021)
 - Extend coverage — iteration 59 (2021)
 - Improve naming — iteration 6 (2022)
+- Improve error handling — iteration 9 (2022)
