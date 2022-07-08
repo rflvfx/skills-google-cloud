@@ -153,3 +153,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Add example — iteration 35 (2022)
 - Fix edge case — iteration 36 (2022)
 - Refactor module — iteration 39 (2022)
+- Fix typo — iteration 41 (2022)
