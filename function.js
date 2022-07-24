@@ -160,3 +160,4 @@ exports.hello = async (req, res) => {
 - Tweak implementation — iteration 29 (2022)
 - Improve error handling — iteration 30 (2022)
 - Update docs — iteration 32 (2022)
+- Add feature — iteration 38 (2022)
