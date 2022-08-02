@@ -144,3 +144,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Update dependencies — iteration 52 (2021)
 - Fix lint warnings — iteration 2 (2022)
 - Extend coverage — iteration 5 (2022)
+- Tweak implementation — iteration 11 (2022)
