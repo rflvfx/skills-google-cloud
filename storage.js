@@ -159,3 +159,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Improve error handling — iteration 45 (2022)
 - Fix edge case — iteration 46 (2022)
 - Add feature — iteration 49 (2022)
+- Polish code — iteration 50 (2022)
