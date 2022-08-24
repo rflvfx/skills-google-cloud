@@ -141,3 +141,4 @@
 - Extend coverage — iteration 59 (2021)
 - Improve naming — iteration 6 (2022)
 - Improve error handling — iteration 9 (2022)
+- Add helper — iteration 12 (2022)
