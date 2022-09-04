@@ -157,3 +157,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Polish code — iteration 42 (2022)
 - Optimize performance — iteration 44 (2022)
 - Improve error handling — iteration 45 (2022)
+- Fix edge case — iteration 46 (2022)
