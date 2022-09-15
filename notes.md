@@ -152,3 +152,4 @@
 - Document usage — iteration 34 (2022)
 - Refactor module — iteration 37 (2022)
 - Extend coverage — iteration 43 (2022)
+- Improve naming — iteration 47 (2022)
