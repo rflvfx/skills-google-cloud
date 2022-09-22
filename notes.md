@@ -146,3 +146,4 @@
 - Refactor module — iteration 16 (2022)
 - Add validation — iteration 17 (2022)
 - Optimize performance — iteration 18 (2022)
+- Document usage — iteration 20 (2022)
