@@ -151,3 +151,4 @@
 - Update docs — iteration 33 (2022)
 - Document usage — iteration 34 (2022)
 - Refactor module — iteration 37 (2022)
+- Extend coverage — iteration 43 (2022)
