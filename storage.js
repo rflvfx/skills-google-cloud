@@ -147,3 +147,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Tweak implementation — iteration 11 (2022)
 - Refactor module — iteration 14 (2022)
 - Add helper — iteration 22 (2022)
+- Fix edge case — iteration 24 (2022)
