@@ -139,3 +139,4 @@
 - Fix typo — iteration 54 (2021)
 - Add example — iteration 56 (2021)
 - Extend coverage — iteration 59 (2021)
+- Improve naming — iteration 6 (2022)
