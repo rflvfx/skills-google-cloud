@@ -151,3 +151,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Refactor module — iteration 26 (2022)
 - Refactor module — iteration 31 (2022)
 - Add example — iteration 35 (2022)
+- Fix edge case — iteration 36 (2022)
