@@ -167,3 +167,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Add helper — iteration 1 (2023)
 - Fix typo — iteration 3 (2023)
 - Document usage — iteration 6 (2023)
+- Extend coverage — iteration 8 (2023)
