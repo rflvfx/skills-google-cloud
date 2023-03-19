@@ -171,3 +171,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Improve error handling — iteration 10 (2023)
 - Minor cleanup — iteration 16 (2023)
 - Improve naming — iteration 18 (2023)
+- Extend coverage — iteration 19 (2023)
