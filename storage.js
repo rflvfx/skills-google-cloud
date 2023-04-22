@@ -174,3 +174,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Extend coverage — iteration 19 (2023)
 - Add example — iteration 22 (2023)
 - Minor cleanup — iteration 30 (2023)
+- Fix edge case — iteration 32 (2023)
