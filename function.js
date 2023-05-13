@@ -169,3 +169,4 @@ exports.hello = async (req, res) => {
 - Improve naming — iteration 4 (2023)
 - Document usage — iteration 9 (2023)
 - Add validation — iteration 11 (2023)
+- Add example — iteration 15 (2023)
