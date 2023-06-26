@@ -173,3 +173,4 @@
 - Add validation — iteration 35 (2023)
 - Update docs — iteration 39 (2023)
 - Tweak implementation — iteration 41 (2023)
+- Document usage — iteration 48 (2023)
