@@ -169,3 +169,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Document usage — iteration 6 (2023)
 - Extend coverage — iteration 8 (2023)
 - Improve error handling — iteration 10 (2023)
+- Minor cleanup — iteration 16 (2023)
