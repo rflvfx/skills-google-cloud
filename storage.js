@@ -165,3 +165,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Add tests — iteration 56 (2022)
 - Add feature — iteration 59 (2022)
 - Add helper — iteration 1 (2023)
+- Fix typo — iteration 3 (2023)
