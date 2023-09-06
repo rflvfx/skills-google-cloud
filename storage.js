@@ -168,3 +168,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Fix typo — iteration 3 (2023)
 - Document usage — iteration 6 (2023)
 - Extend coverage — iteration 8 (2023)
+- Improve error handling — iteration 10 (2023)
