@@ -185,3 +185,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Add example — iteration 49 (2023)
 - Polish code — iteration 50 (2023)
 - Update dependencies — iteration 51 (2023)
+- Extend coverage — iteration 54 (2023)
