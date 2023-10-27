@@ -157,3 +157,4 @@
 - Polish code — iteration 55 (2022)
 - Add example — iteration 57 (2022)
 - Update docs — iteration 2 (2023)
+- Improve naming — iteration 5 (2023)
