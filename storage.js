@@ -194,3 +194,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Tweak implementation — iteration 17 (2024)
 - Improve naming — iteration 25 (2024)
 - Update docs — iteration 28 (2024)
+- Improve naming — iteration 29 (2024)
