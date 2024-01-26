@@ -191,3 +191,4 @@
 - Add helper — iteration 44 (2024)
 - Tweak implementation — iteration 46 (2024)
 - Fix edge case — iteration 47 (2024)
+- Extend coverage — iteration 49 (2024)
