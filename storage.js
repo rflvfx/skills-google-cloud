@@ -196,3 +196,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Update docs — iteration 28 (2024)
 - Improve naming — iteration 29 (2024)
 - Minor cleanup — iteration 30 (2024)
+- Extend coverage — iteration 34 (2024)
