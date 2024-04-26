@@ -198,3 +198,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Minor cleanup — iteration 30 (2024)
 - Extend coverage — iteration 34 (2024)
 - Add helper — iteration 37 (2024)
+- Add helper — iteration 38 (2024)
