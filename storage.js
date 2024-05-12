@@ -192,3 +192,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Fix lint warnings — iteration 6 (2024)
 - Add helper — iteration 8 (2024)
 - Tweak implementation — iteration 17 (2024)
+- Improve naming — iteration 25 (2024)
