@@ -199,3 +199,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Extend coverage — iteration 34 (2024)
 - Add helper — iteration 37 (2024)
 - Add helper — iteration 38 (2024)
+- Optimize performance — iteration 39 (2024)
