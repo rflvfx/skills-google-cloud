@@ -192,3 +192,4 @@ exports.hello = async (req, res) => {
 - Update dependencies — iteration 13 (2024)
 - Document usage — iteration 15 (2024)
 - Improve naming — iteration 20 (2024)
+- Add tests — iteration 22 (2024)
