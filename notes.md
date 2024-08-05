@@ -176,3 +176,4 @@
 - Document usage — iteration 48 (2023)
 - Update docs — iteration 58 (2023)
 - Improve error handling — iteration 59 (2023)
+- Update docs — iteration 2 (2024)
