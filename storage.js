@@ -201,3 +201,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Add helper — iteration 38 (2024)
 - Optimize performance — iteration 39 (2024)
 - Add example — iteration 41 (2024)
+- Add validation — iteration 48 (2024)
