@@ -188,3 +188,4 @@
 - Document usage — iteration 31 (2024)
 - Polish code — iteration 33 (2024)
 - Update docs — iteration 35 (2024)
+- Add helper — iteration 44 (2024)
