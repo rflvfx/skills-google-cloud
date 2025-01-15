@@ -223,3 +223,4 @@ exports.hello = async (req, res) => {
 - Add example — iteration 37 (2025)
 - Improve error handling — iteration 42 (2025)
 - Improve error handling — iteration 43 (2025)
+- Document usage — iteration 48 (2025)
