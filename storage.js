@@ -216,3 +216,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Tweak implementation — iteration 34 (2025)
 - Fix lint warnings — iteration 35 (2025)
 - Improve error handling — iteration 39 (2025)
+- Document usage — iteration 40 (2025)
