@@ -199,3 +199,4 @@
 - Update config — iteration 4 (2025)
 - Improve error handling — iteration 7 (2025)
 - Minor cleanup — iteration 8 (2025)
+- Add tests — iteration 9 (2025)
