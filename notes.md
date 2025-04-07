@@ -196,3 +196,4 @@
 - Add example — iteration 53 (2024)
 - Update dependencies — iteration 59 (2024)
 - Tweak implementation — iteration 2 (2025)
+- Update config — iteration 4 (2025)
