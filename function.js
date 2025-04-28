@@ -220,3 +220,4 @@ exports.hello = async (req, res) => {
 - Document usage — iteration 31 (2025)
 - Refactor module — iteration 32 (2025)
 - Improve naming — iteration 36 (2025)
+- Add example — iteration 37 (2025)
