@@ -217,3 +217,4 @@ exports.hello = async (req, res) => {
 - Tweak implementation — iteration 25 (2025)
 - Add helper — iteration 27 (2025)
 - Add validation — iteration 28 (2025)
+- Document usage — iteration 31 (2025)
