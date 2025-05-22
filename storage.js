@@ -215,3 +215,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Add example — iteration 30 (2025)
 - Tweak implementation — iteration 34 (2025)
 - Fix lint warnings — iteration 35 (2025)
+- Improve error handling — iteration 39 (2025)
