@@ -219,3 +219,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Document usage — iteration 40 (2025)
 - Fix edge case — iteration 46 (2025)
 - Extend coverage — iteration 47 (2025)
+- Update dependencies — iteration 57 (2025)
