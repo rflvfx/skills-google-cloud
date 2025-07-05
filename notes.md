@@ -203,3 +203,4 @@
 - Polish code — iteration 10 (2025)
 - Improve error handling — iteration 11 (2025)
 - Add example — iteration 18 (2025)
+- Improve error handling — iteration 20 (2025)
