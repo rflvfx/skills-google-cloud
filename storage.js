@@ -208,3 +208,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Add tests — iteration 58 (2024)
 - Minor cleanup — iteration 60 (2024)
 - Optimize performance — iteration 3 (2025)
+- Improve naming — iteration 6 (2025)
