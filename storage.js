@@ -210,3 +210,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Optimize performance — iteration 3 (2025)
 - Improve naming — iteration 6 (2025)
 - Add example — iteration 23 (2025)
+- Add example — iteration 26 (2025)
