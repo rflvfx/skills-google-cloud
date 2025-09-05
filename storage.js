@@ -218,3 +218,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Improve error handling — iteration 39 (2025)
 - Document usage — iteration 40 (2025)
 - Fix edge case — iteration 46 (2025)
+- Extend coverage — iteration 47 (2025)
