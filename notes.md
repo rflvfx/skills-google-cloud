@@ -198,3 +198,4 @@
 - Tweak implementation — iteration 2 (2025)
 - Update config — iteration 4 (2025)
 - Improve error handling — iteration 7 (2025)
+- Minor cleanup — iteration 8 (2025)
