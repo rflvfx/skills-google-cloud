@@ -205,3 +205,4 @@
 - Add example — iteration 18 (2025)
 - Improve error handling — iteration 20 (2025)
 - Document usage — iteration 21 (2025)
+- Document usage — iteration 24 (2025)
