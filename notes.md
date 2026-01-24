@@ -217,3 +217,4 @@
 - Add helper — iteration 2 (2026)
 - Update dependencies — iteration 3 (2026)
 - Tweak implementation — iteration 7 (2026)
+- Extend coverage — iteration 11 (2026)
