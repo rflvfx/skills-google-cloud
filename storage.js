@@ -232,3 +232,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Add helper — iteration 14 (2026)
 - Polish code — iteration 15 (2026)
 - Fix typo — iteration 16 (2026)
+- Update config — iteration 17 (2026)
