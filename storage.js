@@ -235,3 +235,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Update config — iteration 17 (2026)
 - Update docs — iteration 20 (2026)
 - Polish code — iteration 21 (2026)
+- Add tests — iteration 22 (2026)
