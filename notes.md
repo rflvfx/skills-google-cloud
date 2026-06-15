@@ -229,3 +229,4 @@
 - Extend coverage — iteration 44 (2026)
 - Add example — iteration 45 (2026)
 - Add example — iteration 47 (2026)
+- Improve naming — iteration 48 (2026)
