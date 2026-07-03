@@ -229,3 +229,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Fix lint warnings — iteration 6 (2026)
 - Add helper — iteration 8 (2026)
 - Add helper — iteration 13 (2026)
+- Add helper — iteration 14 (2026)
