@@ -214,3 +214,4 @@
 - Improve naming — iteration 50 (2025)
 - Add helper — iteration 54 (2025)
 - Extend coverage — iteration 55 (2025)
+- Add helper — iteration 2 (2026)
