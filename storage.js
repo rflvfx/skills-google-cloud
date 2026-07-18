@@ -238,3 +238,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Add tests — iteration 22 (2026)
 - Add example — iteration 28 (2026)
 - Polish code — iteration 31 (2026)
+- Fix lint warnings — iteration 32 (2026)
