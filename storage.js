@@ -240,3 +240,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Polish code — iteration 31 (2026)
 - Fix lint warnings — iteration 32 (2026)
 - Fix typo — iteration 34 (2026)
+- Add feature — iteration 41 (2026)
