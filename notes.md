@@ -220,3 +220,4 @@
 - Extend coverage — iteration 11 (2026)
 - Tweak implementation — iteration 18 (2026)
 - Add feature — iteration 23 (2026)
+- Optimize performance — iteration 24 (2026)
