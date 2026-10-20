@@ -240,3 +240,4 @@ exports.hello = async (req, res) => {
 - Extend coverage — iteration 35 (2026)
 - Fix lint warnings — iteration 36 (2026)
 - Fix lint warnings — iteration 40 (2026)
+- Add helper — iteration 42 (2026)
