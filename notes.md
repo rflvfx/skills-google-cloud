@@ -219,3 +219,4 @@
 - Tweak implementation — iteration 7 (2026)
 - Extend coverage — iteration 11 (2026)
 - Tweak implementation — iteration 18 (2026)
+- Add feature — iteration 23 (2026)
