@@ -233,3 +233,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Polish code — iteration 15 (2026)
 - Fix typo — iteration 16 (2026)
 - Update config — iteration 17 (2026)
+- Update docs — iteration 20 (2026)
