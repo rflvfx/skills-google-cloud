@@ -223,3 +223,4 @@ await storage.bucket("my-bucket").upload("./file.txt");
 - Document usage — iteration 58 (2025)
 - Tweak implementation — iteration 59 (2025)
 - Update docs — iteration 60 (2025)
+- Add validation — iteration 1 (2026)
