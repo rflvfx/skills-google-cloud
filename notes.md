@@ -226,3 +226,4 @@
 - Minor cleanup — iteration 37 (2026)
 - Update dependencies — iteration 38 (2026)
 - Minor cleanup — iteration 39 (2026)
+- Extend coverage — iteration 44 (2026)
